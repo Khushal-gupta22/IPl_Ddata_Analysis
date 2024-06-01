@@ -87,12 +87,6 @@ The entire analysis was performed using a single Jupyter notebook in Databricks.
 
 This project demonstrates a comprehensive analysis of IPL data, providing insights into top player performances, team strategies, and the impact of various factors on match outcomes. The use of Databricks and Spark enabled efficient handling of large datasets, while Python and its libraries facilitated in-depth analysis and visualization.
 
-## Acknowledgements
-
-- **CricSheet** for providing detailed ball-by-ball data.
-- **data.world** for hosting comprehensive IPL datasets.
-- **Databricks Community Edition** for providing a powerful compute platform.
-
 Feel free to explore the data and notebook to uncover more insights!
 
 ---
