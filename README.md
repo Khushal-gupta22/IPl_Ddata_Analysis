@@ -39,20 +39,23 @@ This project focuses on the analysis of IPL (Indian Premier League) data. The da
 
 ## Visualization Examples
 
-![Impact of Winning Toss on Match Outcome](path/to/your/image1.png)
+![Impact of Winning Toss on Match Outcome](./impact_of_winning_toss_on_match.png)
 _Figure 1: Impact of Winning Toss on Match Outcome_
 
-![Toss Win Percentage by Team](path/to/your/image2.png)
-_Figure 2: Toss Win Percentage by Team_
+![Toss Win and Match Wins by Team](./wins_after_winning_toss.png)
+_Figure 2: Toss Win and Match Win by Team_
 
-![Top Scoring Batsmen per Season](path/to/your/image3.png)
+![Average Runs Scored By Batsmen per Season](./average_runs_scored_by_batsmen.png)
 _Figure 3: Top Scoring Batsmen per Season_
 
-![Economical Bowlers in Powerplay](path/to/your/image4.png)
+![Economical Bowlers in Powerplay](./most_economical_bowlers.png)
 _Figure 4: Economical Bowlers in Powerplay_
 
-![Average Runs in Wins](path/to/your/image5.png)
-_Figure 5: Average Runs in Wins_
+![Frequent Dismissal Type in IPL](./frequent_dismissal_type.png)
+_Figure 5: Frequent Dismissal Type in IPL_
+
+![Distribution of Score By Venue](./distribution_of_score_by_venue.png)
+_Figure 6: Distribution of Score By Venue_
 
 ## Notebooks and Code
 
